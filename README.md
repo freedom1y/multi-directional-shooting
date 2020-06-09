@@ -1,5 +1,7 @@
 # 2Dシューティングゲーム『multi-directional-shooting』
-![multi-directional-shooting](https://user-images.githubusercontent.com/53622199/84171086-5af48c00-aab5-11ea-812d-60607b89b568.png)
+<div align="center">
+<img src="https://user-images.githubusercontent.com/53622199/84171086-5af48c00-aab5-11ea-812d-60607b89b568.png" alt="プレー画面" title="multi-directional-shooting">
+</div>
 
 ## 内容
 - Android：機体は画面をタッチしている方向に進む。画面タッチしている間弾を出し続ける。
